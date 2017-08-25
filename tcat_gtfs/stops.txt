@@ -1,0 +1,611 @@
+stop_lon,stop_name,stop_lat,stop_id,location_type
+-76.461838,Rose Hill @ Muriel,42.473938,3921,0
+-76.448402,Skyvue @ Snyder Hill,42.423042,5552,0
+-76.553596,Rte 34 @ Melody Ln,42.381859,6515,0
+-76.497658,Green @ Commons,42.438618,165,0
+-76.285805,TC3 Dorms,42.49929,4787,0
+-76.288277,TC3,42.502785,4783,0
+-76.472801,University Park Apts,42.48074,3557,0
+-76.474922,Gaslight Village Apts,42.481339,3556,0
+-76.474915,Gaslight Village Apts,42.481285,3555,0
+-76.472672,Uptown Village Apts,42.478493,3554,0
+-76.472534,Uptown Village Apts,42.478474,3553,0
+-76.478333,Uptown @ Cinema,42.481106,3550,0
+-76.477898,Pleasant Grove @ Hanshaw,42.467319,3712,0
+-76.468956,Uptown @ Warrenwood Apts,42.478523,3559,0
+-76.472885,University Park Apts,42.480549,3558,0
+-76.499023,Tower @ Gym Rd,42.419586,347,0
+-76.495422,Ithaca College - Roy Park School,42.424351,340,0
+-76.499977,Ithaca College - Main Entrance,42.421406,341,0
+-76.499657,Grant Egbert @ Alumni,42.421803,342,0
+-76.499405,Grant Egbert @ Alumni,42.42173,343,0
+-76.499031,Tower @ Gym Rd,42.419662,348,0
+-76.494415,The Towers @ Ithaca College,42.420338,349,0
+-76.503075,Lincoln @ Dey,42.451187,918,0
+-76.526093,Haller @ Hook,42.439304,719,0
+-76.526062,Haller @ Elm,42.436352,718,0
+-76.526009,Haller @ Elm,42.436466,717,0
+-76.523033,West Village,42.435436,715,0
+-76.5224,Elm @ West Village,42.436592,713,0
+-76.519119,Chestnut @ Hook,42.438911,710,0
+-76.497063,N. Lansing Fire Co. #4,42.612164,3333,0
+-76.496834,Rte 34 @ Storm,42.60289,3332,0
+-76.496704,Rt 34 @ N Lansing School,42.602589,3331,0
+-76.406097,Lower Creek @ Pinckney,42.477119,4550,0
+-76.490463,State @ Stewart,42.439247,1701,0
+-76.490433,State @ Stewart,42.439339,1702,0
+-76.488632,State @ Quarry,42.438679,1703,0
+-76.488419,State @ Quarry,42.438667,1704,0
+-76.290596,Lake Rd @ Kimberly Dr,42.480396,4737,0
+-76.591423,Rte 79 @ Van Dorn,42.452053,2319,0
+-76.57106,Rte 79 @ Sheffield,42.447376,2316,0
+-76.571388,Rte 79 @ Sheffield,42.447361,2315,0
+-76.540222,Rt 79 @ EcoVillage,42.448265,2310,0
+-76.497299,Lake St @ Boynton Middle School,42.460854,1129,0
+-76.493645,Gun Hill Apartments Across Street,42.451084,1120,0
+-76.494843,Falls @ Lake,42.452858,1123,0
+-76.49472,Lake @ Falls,42.452991,1124,0
+-76.496002,Lake St @ Ithaca High School,42.455181,1125,0
+-76.496094,Lake St @ Ithaca High School,42.455162,1126,0
+-76.346893,Rte 38 @ Rte 366,42.513981,4326,0
+-76.50618,Rt 34 @ Rt 34B,42.537491,3140,0
+-76.50782,Rte 34B @ Conlon,42.537964,3141,0
+-76.507584,Rte 34B @ Conlon,42.53801,3142,0
+-76.479202,Rte 96B @ Michigan Hollow,42.349903,6358,0
+-76.525162,Rte 34B @ Brickyard,42.543377,3149,0
+-76.399765,Creekwood Apartments,42.479595,4554,0
+-76.406296,Pinckney @ Lower Creek,42.477116,4552,0
+-76.399712,Creekwood Apartments,42.479568,4553,0
+-76.519447,Elmira @ Spencer,42.420002,569,0
+-76.540718,Overlook Apts,42.465775,2542,0
+-76.536995,Museum Of The Earth,42.467205,2547,0
+-76.537064,Cayuga Medical Center,42.468266,2546,0
+-76.503647,Plain @ Wood,42.432819,524,0
+-76.504509,Titus Towers,42.431789,525,0
+-76.504684,Elmira @ Pudgies,42.429901,527,0
+-76.503777,Plain @ Center,42.435612,520,0
+-76.50354,Plain @ Wood,42.432682,523,0
+-76.504814,Elmira @ Reuse Center,42.429981,528,0
+-76.507538,Ithaca Plaza,42.429672,529,0
+-76.497368,Lake St @ Boynton Middle School,42.460827,1130,0
+-76.488831,YMCA,42.48597,3584,0
+-76.489914,The Shops at Ithaca Mall,42.48262,3588,0
+-76.473724,Cradit Farm @ Pleasant Grove,42.455299,1331,0
+-76.477318,Appel Commons,42.453255,1330,0
+-76.408112,Brooktondale @ Besemer,42.388641,5779,0
+-76.499176,Cayuga @ Buffalo,42.441402,108,0
+-76.502785,E Shore Dr @ Cayuga Vista,42.532883,3129,0
+-76.365761,South @ Main,42.58493,4359,0
+-76.280907,Caroline Turn-Around,42.377563,5771,0
+-76.496895,Tioga @ Court,42.442574,103,0
+-76.496506,Seneca @ Commons,42.440502,100,0
+-76.499046,Cayuga @ Buffalo,42.441227,107,0
+-76.369202,Groton High School,42.580643,4352,0
+-76.494507,Court @ Linn,42.443115,105,0
+-76.499466,Cascadilla @ Cayuga,42.444553,903,0
+-76.499306,Cayuga @ Cascadilla,42.444801,900,0
+-76.499207,Cayuga @ Cascadilla,42.444496,901,0
+-76.49955,Cayuga @ Tompkins,42.448456,906,0
+-76.499428,Cayuga @ Tompkins,42.448273,907,0
+-76.499641,Tompkins @ Cayuga,42.448326,905,0
+-76.481529,Hoy @ Campus,42.445107,1537,0
+-76.481743,Campus @ Hoy,42.445183,1535,0
+-76.482689,Sage Hall,42.445351,1534,0
+-76.482605,Statler Hall,42.44561,1533,0
+-76.484993,Carpenter Hall,42.444889,1531,0
+-76.485138,Anabel Taylor Hall,42.44479,1530,0
+-76.440941,Hillside View Trailer Park,42.3279,6370,0
+-76.495438,Ithaca College - Roy Park School,42.424274,339,0
+-76.642586,Rt. 96 @ Kinney Drugs,42.534016,2612,0
+-76.642525,Trumansburg Shur-Save,42.534092,2611,0
+-76.492081,Garden Apts,42.425053,337,0
+-76.488937,Ithaca College East Entrance,42.426819,330,0
+-76.653046,Trumansburg Central School,42.539295,2619,0
+-76.481628,Triphammer @ Winthrop,42.475204,3519,0
+-76.472244,Rte 79 @ Honness,42.429367,5708,0
+-76.480644,Triphammer @ Hanshaw,42.469814,3512,0
+-76.480324,Triphammer @ Hanshaw,42.469692,3511,0
+-76.471977,Rte 79 @ Honness,42.429272,5707,0
+-76.481438,Triphammer @ Spruce,42.472546,3516,0
+-76.481323,Triphammer @ Texas,42.472656,3515,0
+-76.309319,Freeville Rd @ Dryden Central School,42.498505,4776,0
+-76.309319,Freeville Rd @ Poets Landing,42.498505,4775,0
+-76.361893,Boiceville Rd @ Boiceville Cottages,42.388237,5796,0
+-76.361778,Boiceville Rd @ Boiceville Cottages,42.388184,5795,0
+-76.36013,Boiceville @ Valley,42.38596,5794,0
+-76.360313,Valley @ Boiceville,42.385826,5792,0
+-76.517021,413 Hector,42.446095,747,0
+-76.517151,413 Hector,42.446087,748,0
+-76.485985,Highland @ Wyckoff,42.456394,1315,0
+-76.47187,Ithaca East Apts @ Maple,42.441357,1758,0
+-76.472,Ithaca East Apts @ Maple,42.441299,1757,0
+-76.474976,Maplewood Park Apts,42.441284,1754,0
+-76.476311,Fairview/ Maplewood Park,42.441135,1753,0
+-76.476662,Dryden @ Humphreys Crosswalk,42.44236,1752,0
+-76.476654,Dryden @ Humphreys Crosswalk,42.442245,1751,0
+-76.334953,Rte 38 @ William George Academy,42.505863,4311,0
+-76.33522,Rte 38 @ William George Academy,42.505901,4312,0
+-76.342766,Railroad@ Cook,42.512444,4315,0
+-76.343048,Railroad @ Cook,42.512405,4316,0
+-76.449585,Dryden @ Game Farm,42.450832,4505,0
+-76.462563,Pine Tree @ Honness,42.42984,5532,0
+-76.462418,Pine Tree @ Honness,42.429573,5531,0
+-76.449409,Dryden @ Game Farm,42.451,4506,0
+-76.467056,Honness @ Ithaca Recreation Way,42.429604,5536,0
+-76.444336,Dryden @ Forest Home,42.453087,4509,0
+-76.500092,E Shore Dr @ Asbury,42.524967,3119,0
+-76.50843,E Shore Dr @ Waterwagon,42.515717,3116,0
+-76.508316,East Shore @ Waterwagon,42.515568,3115,0
+-76.509857,E Shore Dr @ Burdick Hill,42.497959,3112,0
+-76.50972,E Shore Dr @ Burdick Hill,42.49778,3111,0
+-76.53273,Rte 96 @ Cayuga Ridge,42.462475,2533,0
+-76.532852,Rte 96 @ Cayuga Ridge,42.462429,2534,0
+-76.486397,Tops Supermarket (Lansing),42.482422,3593,0
+-76.487991,Thurston @ Barton,42.453785,1306,0
+-76.488167,Thurston @ Barton,42.453758,1307,0
+-76.490387,Thurston @ Stewart,42.454651,1301,0
+-76.362801,Boiceville @ Rte 79,42.393688,5754,0
+-76.486816,Thurston @ Highland,42.453831,1308,0
+-76.486359,Thurston @ Highland,42.453632,1309,0
+-76.500595,McGraw House,42.437733,133,0
+-76.397835,Rte 79 @ Landon,42.395496,5741,0
+-76.398033,Rte 79 @ Landon,42.395466,5742,0
+-76.382034,Rte 79 @ Snyder Hill,42.395462,5743,0
+-76.382385,Rte 79 @ Snyder Hill,42.395374,5744,0
+-76.375069,Rte 79 @ Thomas,42.394417,5745,0
+-76.502815,Green @ Fayette,42.438461,135,0
+-76.50071,McGraw House,42.437733,134,0
+-76.367424,Rte 79 @ Ellis Hollow,42.393597,5748,0
+-76.366982,Rte 79 @ Ellis Hollow,42.393692,5749,0
+-76.369263,Conger @ Cortland,42.590946,4383,0
+-76.463638,Thornwood @ Bin Optics,42.484016,3794,0
+-76.457443,Langmuir Lab,42.48539,3790,0
+-76.48436,Northway @ Triphammer,42.46632,1371,0
+-76.506561,Aldi,42.449238,939,0
+-76.484207,Triphammer @ Northway,42.466553,1372,0
+-76.486542,The Parkway @ Upland,42.463627,1375,0
+-76.503189,Rte 96B @ King,42.408066,6322,0
+-76.48671,The Parkway @ Northway,42.465145,1377,0
+-76.505798,Third @ Adams,42.447296,933,0
+-76.505005,Hancock @ Third,42.446491,932,0
+-76.505226,Third @ Hancock,42.446476,930,0
+-76.497513,Rte 96B @ Comfort,42.39439,6329,0
+-76.505981,Third @ Adams,42.447395,934,0
+-76.291328,Rt 38 @ Keith,42.468773,4733,0
+-76.450516,Lab of Ornithology,42.479336,3936,0
+-76.450233,Hanshaw @ Sapsucker Woods,42.46748,3931,0
+-76.449959,Sapsucker Woods @ Hanshaw,42.467541,3932,0
+-76.546272,Rte 13 @ Enfield Falls,42.404305,6718,0
+-76.546074,Rte 13 @ Enfield Falls,42.403954,6717,0
+-76.533295,Rte 13 @ Five Mile,42.413754,6712,0
+-76.533424,Rte 13 @ Five Mile,42.413532,6711,0
+-76.468826,Uptown @ Warrenwood Apts,42.478584,3560,0
+-76.283508,Keith @ Lake,42.470005,4735,0
+-76.500671,College Circle North Entrance,42.413166,371,0
+-76.500519,College Circle Apts,42.411572,373,0
+-76.500534,College Circle North Entrance,42.413074,372,0
+-76.499191,College Circle @ Unnamed Road,42.412563,376,0
+-76.519127,Chestnut @ Elm (LACS),42.438648,709,0
+-76.517815,Chestnut @ Sunrise,42.443447,704,0
+-76.518036,Chestnut Hill Apts,42.441708,705,0
+-76.518082,Chestnut Hill Apts,42.441711,706,0
+-76.465202,Ciser Shelter,42.438629,1770,0
+-76.516708,Sunrise @ Hector,42.443657,703,0
+-76.502945,Rte 96B @ King,42.407223,6321,0
+-76.484116,Asbury @ Armstrong,42.526867,3309,0
+-76.472847,Asbury @ Warren,42.524723,3306,0
+-76.47261,Warren @ Asbury,42.524666,3305,0
+-76.540108,Rt 79 @ EcoVillage,42.448181,2309,0
+-76.485023,College @ Mitchell,42.437832,1711,0
+-76.48513,College @ Mitchell,42.437771,1710,0
+-76.485336,Schwartz Performing Arts Center,42.442558,1716,0
+-76.485153,Collegetown Crossing,42.440639,1715,0
+-76.608582,Newfield-Rt 13 @ Main,42.352848,6789,0
+-76.297714,South @ George,42.489346,4724,0
+-76.297333,South @ Ferguson,42.483341,4727,0
+-76.428185,Turkey Hill @ Ellis Hollow,42.430874,5316,0
+-76.297714,South @ George,42.489346,4723,0
+-76.499168,E Shore Dr @ James L. Gibbs,42.464016,1138,0
+-76.467796,Warren @ Bomax,42.490177,3748,0
+-76.467758,Warren @ Tompkins County Jail,42.493011,3749,0
+-76.46756,Warren @ Post Office,42.489956,3747,0
+-76.467537,Warren @ Northwoods,42.486298,3744,0
+-76.470436,Northwoods Apts,42.486336,3745,0
+-76.498863,E Shore Dr @ James L. Gibbs,42.463848,1137,0
+-76.467331,Warren @ Northwoods,42.486023,3743,0
+-76.46743,Warren Rd @ Dart Dr,42.483459,3740,0
+-76.467247,Warren Rd @ Dart Dr,42.483356,3741,0
+-76.524826,Rte 34B @ Brickyard,42.54343,3150,0
+-76.536804,Rte 34B @ Myers Point,42.542278,3157,0
+-76.386917,Rte 13 @ Rte 366,42.476467,4540,0
+-76.373871,Rt 13 @ Mineah,42.480637,4543,0
+-76.536819,Rt 34 @ Myers Point,42.542175,3158,0
+-76.373444,Rt 13 @ Kirk,42.480835,4544,0
+-76.596428,Rte 96 @ Perry City,42.495911,2578,0
+-76.595734,Rte 96 @ Perry City,42.495731,2577,0
+-76.57357,Rt 96 @ Krums Corner,42.486118,2574,0
+-76.57325,Rt 96 @ Krums Corner,42.486095,2573,0
+-76.503685,Plain @ Center,42.435444,519,0
+-76.462929,Honness @ Pine Tree,42.429714,5530,0
+-76.506348,Clinton West Plaza,42.436604,511,0
+-76.505882,Clinton @ Corn,42.436687,512,0
+-76.474319,Pleasant Grove @ Jessup,42.456924,1348,0
+-76.471642,Hasbrouck Apts,42.456341,1349,0
+-76.459671,Snyder Hill Across From Sugarbush,42.429371,5541,0
+-76.346474,Rt 38 @ Rt. 366,42.513874,4328,0
+-76.478416,Jessup Tennis Courts,42.456978,1342,0
+-76.476936,Jessup @ Robert Purcell Community Center,42.456635,1343,0
+-76.477135,Jessup @ Robert Purcell Community Center,42.456741,1344,0
+-76.474564,Jessup @ Pleasant Grove,42.456734,1345,0
+-76.474648,Jessup @ Pleasant Grove,42.456818,1346,0
+-76.47403,Pleasant Grove @ Jessup,42.456741,1347,0
+-76.557182,Newfield Depot @ Valley Manor,42.368801,6532,0
+-76.510956,Buffalo @ Fulton,42.440853,175,0
+-76.495552,Aurora @ Commons,42.439236,172,0
+-76.495399,Aurora @ Commons,42.439274,171,0
+-76.453789,Snyder Hill @ Hungerford Hill,42.425091,5548,0
+-76.45105,Snyder Hill @ Dove,42.423912,5549,0
+-76.387283,Rte 13 @ Rte 366,42.476181,4538,0
+-76.387291,Rt 366 @ Rt 13,42.476486,4539,0
+-76.459396,Snyder Hill @ Sugarbush,42.429325,5542,0
+-76.387047,Rt 366 @ Rt 13,42.476929,4537,0
+-76.455353,Snyder Hill @ Regency,42.426277,5546,0
+-76.455276,Regency @ Snyder Hill,42.426128,5545,0
+-76.350449,Freeville Village,42.511971,4321,0
+-76.490402,Stewart @ University,42.44939,1506,0
+-76.490311,Stewart @ University,42.44912,1507,0
+-76.466331,Rte 96B @ Steam Mill,42.343376,6363,0
+-76.490227,University @ Stewart,42.449306,1508,0
+-76.466766,Rte 96B @ Steam Mill,42.343456,6364,0
+-76.65873,E Main @ South (Route 96 @ South St),42.541088,2623,0
+-76.653206,Trumansburg Central School,42.539268,2620,0
+-76.350533,Freeville Park-n-Ride,42.512016,4322,0
+-76.663025,Trumansburg-W Main @ Washington,42.54211,2627,0
+-76.658554,E Main @ South (Route 96 @ South St),42.540951,2624,0
+-76.346809,Rte 366 @ Rte 38,42.51384,4325,0
+-76.662788,Trumansburg-W Main @ Washington,42.542072,2628,0
+-76.430695,Hanshaw @ Royal (Gutherie Medical),42.476093,3945,0
+-76.482216,Triphammer @ Triphammer Mall,42.478714,3526,0
+-76.481407,Sheraton @ Clarion,42.478241,3524,0
+-76.482613,Triphammer Mall @ Lansing West,42.479057,3525,0
+-76.481979,Triphammer @ Kendall,42.476658,3522,0
+-76.481316,Sheraton @ Triphammer,42.478161,3523,0
+-76.481857,Triphammer @ Winthrop,42.475216,3520,0
+-76.48175,Triphammer across from Kendall,42.476627,3521,0
+-76.461441,Pine Tree @ Rt 79,42.422333,5719,0
+-76.464195,Rt 79 @ Lois Ln (Commonland),42.424183,5716,0
+-76.464165,Rt 79 @ Lois Ln (Commonland),42.424248,5715,0
+-76.467339,Rt 79 Across From Tower View,42.426205,5712,0
+-76.471939,Honness @ Rte 79,42.429417,5710,0
+-76.461678,Muriel @ Hanshaw,42.467308,3904,0
+-76.458817,Hanshaw @ Salem,42.467262,3905,0
+-76.458504,Hanshaw @ Salem,42.467339,3906,0
+-76.466042,Warren @ Hanshaw,42.467171,3900,0
+-76.466278,Hanshaw @ Warren,42.467075,3901,0
+-76.465836,Hanshaw @ Warren,42.467136,3902,0
+-76.461723,Hanshaw @ Muriel,42.467182,3903,0
+-76.45871,Salem @ Maplewood Dr,42.469334,3909,0
+-76.586296,Rte 13 @ Burdge Hill,42.366524,6742,0
+-76.492088,Hudson @ Pearsall,42.43145,323,0
+-76.491089,Coddington @ Hudson,42.429077,327,0
+-76.492424,Hudson @ Grandview,42.431004,324,0
+-76.491463,Hudson @ Coddington,42.429348,328,0
+-76.488838,Ithaca College East Entrance,42.426823,329,0
+-76.524567,Campbell @ Hopkins,42.456551,773,0
+-76.517723,Cliff @ Vineager Hill,42.449738,779,0
+-76.631104,Enfield Main Rd @ Enfield Elementary,42.449688,2330,0
+-76.630821,Enfield Center - Park and Ride,42.438198,2333,0
+-76.630882,Enfield Center - Park and Ride,42.438221,2334,0
+-76.629402,Enfield Main Rd @ Bostwick,42.421387,2337,0
+-76.629517,Enfield Main Rd @ Bostwick,42.421535,2338,0
+-76.627701,Enfield Highway Department,42.416069,2339,0
+-76.299408,Main @ Library - Mirabito,42.490551,4718,0
+-76.465248,Pine Tree @ East Hill Plaza,42.437607,1768,0
+-76.465202,Ciser (Across Street),42.43853,1769,0
+-76.46508,Pine Tree @ East Hill Plaza,42.437576,1767,0
+-76.463516,East Hill Office Building (Across Street,42.43858,1772,0
+-76.470787,Hanshaw @ Blackstone,42.466927,3715,0
+-76.500809,Stewart Park,42.462711,1143,0
+-76.470512,Hanshaw @ Blackstone,42.46703,3716,0
+-76.477821,Pleasant Grove @ Hanshaw,42.467655,3711,0
+-76.512512,State @ Taughannock,42.439579,669,0
+-76.511024,Ithaca Bus Station,42.439243,668,0
+-76.509888,State @ Fulton (Maxie's),42.439156,665,0
+-76.50808,State @ Meadow,42.439297,664,0
+-76.507942,State @ Meadow (Cornell Laundry),42.439217,663,0
+-76.508499,Green @ Meadow,42.438309,661,0
+-76.383759,Rte 366 @ Etna Ln,42.485317,4570,0
+-76.471359,Dairy Bar Across Street,42.447575,1546,0
+-76.471199,Dairy Bar,42.44751,1547,0
+-76.475822,Bradfield Hall,42.447594,1544,0
+-76.475578,Bradfield Hall Across Street,42.447533,1545,0
+-76.479439,Kennedy Hall,42.447624,1542,0
+-76.479324,Corson/Mudd Hall,42.44754,1543,0
+-76.482399,Uris Hall Across Street,42.44759,1540,0
+-76.482079,Uris Hall,42.447525,1541,0
+-76.50029,E Shore Dr @ Asbury,42.52512,3120,0
+-76.509781,Tops Supermarket (Ithaca),42.431664,543,0
+-76.509613,Wegmans,42.434944,541,0
+-76.511955,Fairgrounds Memorial Parkway @ Lowes,42.429966,547,0
+-76.50988,South Meadow Marketplace,42.430428,545,0
+-76.513329,WalMart,42.428844,549,0
+-76.486382,Highland @ Lakeland,42.458408,1317,0
+-76.486519,Highland @ Lakeland,42.45845,1316,0
+-76.506073,TCAT Offices,42.453205,997,0
+-76.486115,Highland @ Wyckoff,42.456318,1314,0
+-76.486465,Highland @ Thurston,42.453926,1311,0
+-76.486504,Highland @ Thurston,42.453846,1310,0
+-76.505447,TCAT Garage,42.452354,998,0
+-76.362694,Rte 79 @ Boiceville,42.393841,5753,0
+-76.362991,Rt 79 @ Boiceville,42.393753,5752,0
+-76.504135,State @ Plain,42.439346,127,0
+-76.503761,State @ Plain,42.439434,128,0
+-76.349709,Caroline Town Hall,42.393986,5759,0
+-76.503677,Third @ Cascadilla,42.444553,928,0
+-76.505035,Third @ Hancock,42.446365,929,0
+-76.502823,Lincoln @ Dey,42.451229,920,0
+-76.672882,Rt 96 @ W Seneca,42.54726,2669,0
+-76.497536,Tioga @ Falls,42.452732,925,0
+-76.497498,Falls @ Tioga,42.452808,926,0
+-76.503532,Cascadilla @ Third,42.444489,927,0
+-76.431145,Hanshaw Village,42.483047,3949,0
+-76.491737,Hudson @ South Hill School,42.433723,318,0
+-76.37532,Rte 79 @ Lounsberry,42.394356,5746,0
+-76.492256,Hudson @ Columbia,42.435791,313,0
+-76.367271,Ellis Hollow @ Rte 79,42.393826,5747,0
+-76.491631,Hudson @ South Hill School,42.433704,317,0
+-76.493378,416 Hillview Pl,42.43494,316,0
+-76.493355,417 Hillview Pl,42.434891,315,0
+-76.492378,Hudson @ Columbia,42.435936,314,0
+-76.478256,RPCC @ Jameson,42.456264,1339,0
+-76.485535,Triphammer @ Cayuga Mall,42.483673,3579,0
+-76.503906,Longview,42.415726,365,0
+-76.501976,South Hill Business Park,42.423557,361,0
+-76.343086,Rt 13 @ Yellowbarn,42.486992,4707,0
+-76.415062,Ellis Hollow @ Genung,42.428101,5322,0
+-76.415283,Ellis Hollow @ Genung,42.428082,5321,0
+-76.48381,Asbury @ Armstrong,42.526951,3310,0
+-76.491699,Asbury @ Triphammer,42.526733,3312,0
+-76.492561,Triphammer @ Rte 34B,42.538322,3315,0
+-76.491959,Triphammer @ Asbury,42.526794,3314,0
+-76.492691,Triphammer @ Rte 34B,42.538513,3316,0
+-76.524277,Rte 96 @ Hopkins,42.456947,785,0
+-76.524384,Rt 96 @ Hopkins,42.456894,786,0
+-76.517883,Cliff @ Vinegar Hill,42.449829,780,0
+-76.489906,Stewart @ Williams,42.442543,1726,0
+-76.297989,North @ Lee,42.497982,4751,0
+-76.298218,North @ Freeville,42.498405,4752,0
+-76.489769,Stewart @ Williams,42.442619,1725,0
+-76.489799,Stewart @ Seneca,42.440758,1722,0
+-76.298172,Rt 13 @ Brightday,42.50071,4755,0
+-76.298302,Rt 13 @ Brightday,42.500816,4756,0
+-76.489723,Stewart @ Seneca,42.44059,1721,0
+-76.428001,Ellis Hollow @ Turkey Hill,42.430786,5318,0
+-76.472069,Warren @ Farrell,42.514465,3759,0
+-76.47168,Warren @ Dutch Mill,42.507618,3751,0
+-76.467964,Warren @ BorgWarner,42.49334,3750,0
+-76.52346,Rt 13 @ Buttermilk Falls,42.417587,571,0
+-76.471825,Warren @ Dutch Mill,42.507893,3752,0
+-76.471909,Warren @ Village Circle,42.511322,3755,0
+-76.472061,Warren @ Village Circle,42.511467,3756,0
+-76.409721,Etna @ Pinckney,42.487167,4561,0
+-76.548279,Rte 34B @ Lakeview,42.556786,3168,0
+-76.368423,Rt 38 @ Hamilton North,42.583397,4355,0
+-76.547928,Rte 34B @ Lakeview,42.556736,3167,0
+-76.368568,Rt 38 @ Hamilton North,42.583427,4356,0
+-76.561195,Rt 96 @ Iradell,42.480186,2568,0
+-76.547417,Rte 96 @ Dubois,42.471432,2560,0
+-76.557503,Rt 96 @ Woolf,42.477474,2563,0
+-76.484116,Triphammer @ Northway,42.466339,1373,0
+-76.560837,Rt 96 @ Iradell,42.480034,2567,0
+-76.369049,Groton High School,42.580624,4351,0
+-76.526627,Hector @ Warren,42.448673,731,0
+-76.526108,Warren Pl @ Hector,42.448238,730,0
+-76.530502,Rt 79 @ Conifer Dr,42.448513,732,0
+-76.530815,Linderman Creek Apts.,42.449688,737,0
+-76.53054,Linderman Creek Apts.,42.449429,736,0
+-76.532227,Conifer Village,42.451122,738,0
+-76.502449,Clinton @ Fayette,42.436798,504,0
+-76.50267,Clinton @ Fayette,42.436722,503,0
+-76.613922,Jacksonville Post Office,42.507713,2584,0
+-76.613831,Jacksonville Post Office,42.507759,2583,0
+-76.610367,Rt 96 @ Colegrove,42.505081,2582,0
+-76.610146,Rt 96 @ Colegrove,42.505047,2581,0
+-76.47728,A-Lot (Lower Stop),42.458027,1353,0
+-76.475403,A-Lot (Upper Stop),42.458111,1351,0
+-76.481216,Triphammer @ Jessup,42.456215,1357,0
+-76.48101,Jessup @ Triphammer,42.456406,1356,0
+-76.48082,Jessup @ Triphammer,42.456367,1355,0
+-76.367752,Main @ Groton Park N Ride,42.590046,4378,0
+-76.467026,Warren @ Warrenwood Apts,42.477055,3728,0
+-76.552292,Newfield Depot @ W. Danby,42.368603,6524,0
+-76.486671,Northway @ The Parkway,42.465393,1378,0
+-76.465851,Warren @ BOCES,42.474792,3725,0
+-76.466103,Dewitt Middle School,42.474888,3726,0
+-76.466888,Warren @ Warrenwood Apts,42.477661,3727,0
+-76.452621,Eastern Hts. @ Sharlene,42.423298,5559,0
+-76.464485,Warren Rd @ Christopher,42.472012,3721,0
+-76.464592,Warren Rd @ Christopher,42.472069,3722,0
+-76.369118,Groton Town Hall,42.589951,4375,0
+-76.478836,Rte 96B @ Michigan Hollow,42.349846,6357,0
+-76.480965,Rte 96B @ Bald Hill,42.352505,6354,0
+-76.480721,Rte 96B @ Bald Hill,42.352375,6353,0
+-76.483368,Danby Fire Station,42.358288,6350,0
+-76.410957,Dryden @ Baker Hil,42.467411,4528,0
+-76.410881,Dryden @ Baker Hill,42.46735,4527,0
+-76.429283,Turkey Hill @ Mt. Pleasant,42.453114,4524,0
+-76.429237,Turkey Hill @ Mt. Pleasant,42.453247,4523,0
+-76.427246,Dryden @ Turkey Hill,42.460426,4522,0
+-76.427536,Dryden @ Turkey Hill,42.460251,4521,0
+-76.427589,Turkey Hill @ Varna Fire Station,42.458969,4520,0
+-76.589577,Newfield-Town Hall,42.362503,6775,0
+-76.52977,Rt 96 @ Bundy,42.460575,2514,0
+-76.488693,Boldt Hall,42.449238,1511,0
+-76.528595,Rt 96 @ Candlewyck,42.459969,2511,0
+-76.487701,Baker Flagpole,42.4478,1513,0
+-76.487709,Baker Flagpole,42.447533,1512,0
+-76.467903,Dart @ Warren,42.483368,3739,0
+-76.666672,Trumansburg Park-n-Ride,42.541954,2631,0
+-76.429245,Rt 79 @ German Cross,42.405312,5729,0
+-76.428917,Turkey Hill @ Ellis Hollow Creek,42.442574,5312,0
+-76.46154,Pine Tree @ Rt 79,42.422577,5720,0
+-76.537399,Ludlowville,42.553066,3187,0
+-76.583099,Rte 34B @ Lansing Station,42.579281,3180,0
+-76.589836,Lansing Fire Co. #3,42.586987,3182,0
+-76.537468,Ludlowville,42.553093,3188,0
+-76.45826,Winston @ Rose Hill,42.474049,3917,0
+-76.457382,Winston Court,42.475567,3915,0
+-76.457008,Salem @ Birchwood,42.471275,3911,0
+-76.486862,Rte 96B @ Miller,42.367725,6343,0
+-76.459808,Rose Hill @ Tareyton,42.474007,3919,0
+-76.478294,Cinema @ Sheraton,42.478607,3547,0
+-76.478394,Cinema @ Sheraton,42.478653,3548,0
+-76.478439,Cinema @ Uptown,42.480976,3549,0
+-76.483131,Rte 96B @ Gunderman,42.358238,6349,0
+-76.49659,Ithaca College -Terrace Apartment,42.419682,352,0
+-76.49659,Ithaca College -Terrace Apartments,42.419609,351,0
+-76.444397,Dryden @ Forest Home,42.453156,4510,0
+-76.523407,Campbell @ Hector,42.452522,768,0
+-76.523338,Campbell @ Hector,42.45256,767,0
+-76.430199,Dryden @ Pineridge,42.459278,4517,0
+-76.493866,Rte 34 @ Buck,42.55666,3321,0
+-76.49398,Rte 34 @ Buck,42.556862,3322,0
+-76.492897,Rt 34 @ E Lansing,42.567478,3325,0
+-76.493004,Rt 34e @ Searles,42.567646,3326,0
+-76.597198,Newfield-Central School/Garden Apts.,42.359272,6874,0
+-76.49192,Garden Apts,42.425182,338,0
+-76.611549,Rte 79 @ Applegate,42.451523,2323,0
+-76.462776,East Hill Plaza,42.437618,1774,0
+-76.590965,Rte 79 @ Van Dorn,42.452099,2320,0
+-76.46286,East Hill Office Building,42.438877,1771,0
+-76.626022,Sandy Creek Mobile Home Park,42.451149,2326,0
+-76.611176,Rte 79 @ Applegate,42.451603,2324,0
+-76.631004,Enfield Main Rd @ Enfield Elementary,42.449696,2329,0
+-76.343109,Rt 13 @ Johnson,42.487099,4708,0
+-76.523399,Rt 13 @ Buttermilk Falls,42.41777,572,0
+-76.472206,Warren @ Farrell,42.514725,3760,0
+-76.520027,Elmira @ Home Depot/Kohls,42.419739,570,0
+-76.514015,State @ Inlet Island,42.440517,679,0
+-76.361771,Rte 38 @ Rte 34B,42.548393,4336,0
+-76.51329,Buffalo @ Taughannock,42.440952,676,0
+-76.361519,Rte 38 @ Rte 34B,42.54808,4335,0
+-76.510445,Seneca @ Fulton,42.440079,672,0
+-76.409523,Etna @ Pinckney,42.487144,4563,0
+-76.502403,Lansing Town Hall,42.53791,3137,0
+-76.502991,E Shore @ Cayuga Vista,42.532848,3130,0
+-76.383629,Etna Mills Apts - Rt 366,42.485332,4569,0
+-76.506157,Rt 34 @ Auburn Rd,42.537514,3139,0
+-76.539749,Rte 96 @ Cayuga Medical,42.466614,2550,0
+-76.467636,Boyce Thompson Institute,42.447491,1553,0
+-76.539795,Rte 96 @ Cayuga Medical Center,42.466751,2553,0
+-76.466805,Vet School,42.447311,1555,0
+-76.464821,Vet Medical Center,42.446301,1557,0
+-76.541252,Professional Building,42.468006,2557,0
+-76.54705,Rt 96 @ Dubois,42.471375,2559,0
+-76.464867,Vet Medical Center,42.446373,1556,0
+-76.508133,Meadow @ Wood,42.43232,532,0
+-76.507942,Meadow @ Wood,42.432533,531,0
+-76.48101,Wait @ Thurston,42.453182,1322,0
+-76.481499,Risley before Wait,42.453423,1323,0
+-76.481125,Risley Hall,42.452858,1326,0
+-76.480995,Balch Hall @ Thurston,42.452957,1325,0
+-76.47937,Balch Hall @ Cradit Farm,42.452866,1328,0
+-76.477264,Helen Newman Hall,42.45322,1329,0
+-76.501869,State @ Albany,42.4394,115,0
+-76.500801,Geneva @ State,42.439583,110,0
+-76.501564,Seneca @ Albany,42.440365,113,0
+-76.501778,Albany @ Salvation Army,42.43988,112,0
+-76.349716,Caroline Town Hall,42.393898,5760,0
+-76.551537,Rte 34 @ Shelter Valley,42.373947,6519,0
+-76.553864,Rte 34 @ Decker,42.387653,6511,0
+-76.454544,Eastern Heights @ Landmark,42.42437,5560,0
+-76.456482,Eastern Hts. @ Joanne,42.424992,5561,0
+-76.482941,Goldwin Smith Hall,42.449841,1524,0
+-76.482788,Rockefeller Hall,42.4496,1525,0
+-76.483688,Milstein Hall across Street,42.451385,1520,0
+-76.483688,Milstein Hall,42.451355,1521,0
+-76.471039,Forest Home @ Bridge,42.452961,1399,0
+-76.47023,Forest Home @ Bridge,42.453365,1398,0
+-76.499565,Lincoln @ Cayuga,42.452011,914,0
+-76.500931,Lincoln @ Auburn,42.451881,916,0
+-76.499657,Cayuga @ Lincoln,42.451878,911,0
+-76.499893,Lincoln @ Cayuga,42.451942,913,0
+-76.431229,Hanshaw Village,42.48312,3950,0
+-76.678131,Aubles Trailer Park,42.547237,2671,0
+-76.67321,W Seneca @ Route 96,42.547352,2670,0
+-76.381676,Ellis Hollow @ Ellis Hollow Creek,42.425316,5331,0
+-76.381332,Ellis Hollow @ Ellis Hollow Creek,42.425243,5332,0
+-76.378471,Ellis Hollow @ Eagleshead,42.423756,5337,0
+-76.378227,Ellis Hollow @ Eagleshead,42.423752,5338,0
+-76.585739,Newfield Depot @ Mill,42.363846,6767,0
+-76.396744,Brooktondale Store,42.381554,5785,0
+-76.396805,Brooktondale Store,42.381489,5786,0
+-76.393372,Brooktondale Park & Ride Inbound,42.381004,5787,0
+-76.408585,Brooktondale @ Besemer,42.388695,5780,0
+-76.393486,Brooktondale Park & Ride Outbound,42.380924,5788,0
+-76.516205,Elmira @ Speedway Gas Station,42.422878,568,0
+-76.311302,W Main @ Hilton,42.490189,4714,0
+-76.508186,Rt 13 @ Old Elmira Rd,42.428135,561,0
+-76.508163,Meadow @ Elmira,42.428619,562,0
+-76.507736,Spencer Rd @ S Meadow,42.42643,563,0
+-76.511551,Elmira @ Dennys,42.426125,565,0
+-76.430801,Hanshaw @ Royal (Gutherie Medical),42.476219,3946,0
+-76.515701,Elmira @ Old Mexico Restaurant,42.423042,567,0
+-76.582573,Rte 34B @ Emmons,42.578983,3179,0
+-76.299393,Dryden Village @ Post Office,42.490452,4717,0
+-76.555771,Rt 34B @ Beckwith,42.560425,3171,0
+-76.556015,Rt 34B @ Beckwith,42.560394,3172,0
+-76.573868,Rte 34B @ Ross,42.568768,3175,0
+-76.57415,Rte 34B @ Ross,42.568893,3176,0
+-76.377106,Ellis Hollow @ Hunt Hill,42.422554,5341,0
+-76.376808,Ellis Hollow @ Hunt Hill,42.422405,5342,0
+-76.311539,W Main @ Hilton,42.490097,4713,0
+-76.524521,Warren Pl @ Sunrise,42.443947,726,0
+-76.524429,Warren Pl @ Sunrise,42.443802,725,0
+-76.523926,Warren Pl @ Hook,42.439602,722,0
+-76.526062,Hook @ Haller,42.43948,720,0
+-76.523865,Warren Pl @ Hook,42.439678,721,0
+-76.52636,Warren Pl @ Hector,42.448711,729,0
+-76.366852,Groton Express Mart,42.587536,4365,0
+-76.366043,Groton @ Railroad,42.586338,4361,0
+-76.36573,Main @ South,42.585087,4360,0
+-76.366241,Groton @ Railroad,42.586483,4362,0
+-76.481369,Triphammer @ Dearborn,42.456375,1358,0
+-76.463066,Pine Tree @ Equestrian Center,42.434036,5525,0
+-76.463264,Pine Tree @ Equestrian Center,42.434044,5526,0
+-76.46402,Guthrie Orthopedic,42.480507,3735,0
+-76.465172,Convenient Care,42.479858,3733,0
+-76.430244,Dryden @ Pineridge,42.459351,4518,0
+-76.427361,Turkey Hill @ Dryden,42.460258,4519,0
+-76.487091,Rte 96B @ Miller,42.367626,6344,0
+-76.440674,Varna,42.454292,4512,0
+-76.50309,Hancock @ First,42.447285,953,0
+-76.440651,Varna Auto,42.454197,4511,0
+-76.436256,Dryden @ Freese,42.455952,4516,0
+-76.502968,Hancock @ First,42.447414,954,0
+-76.436302,Dryden @ Mt. Pleasant,42.455818,4515,0
+-76.493027,University @ Cornell Ave,42.447132,1111,0
+-76.492081,University @ Lake,42.449551,1113,0
+-76.493675,Gun Hill Apartments,42.450989,1119,0
+-76.663864,Juniper Manor,42.540401,2641,0
+-76.423927,Rt 79 @ Brooktondale,42.402611,5734,0
+-76.408714,Rte 79 @ Bessemer Hill,42.39616,5737,0
+-76.423737,Brooktondale @ Rt 79,42.402458,5736,0
+-76.429626,Rt 79 @ German Cross,42.405418,5730,0
+-76.423561,Rt 79 @ Brooktondale,42.402554,5733,0
+-76.40905,Rte 79 @ Bessemer Hill,42.396091,5738,0
+-76.465141,Brown @ Thornwood,42.487301,3782,0
+-76.462181,Brown @ Culligan,42.487488,3783,0
+-76.46492,Thornwood @ Brown,42.487255,3781,0
+-76.462502,Culligan @ Brown,42.487785,3784,0
+-76.463974,Airport,42.49052,3785,0
+-76.462364,Tompkins County Health Department,42.486084,3788,0
+-76.351112,Groton Industrial Park,42.590286,4395,0
+-76.483383,Triphammer @ Iroquois,42.462852,1367,0
+-76.491165,Rte 96B @ Muzzy,42.380821,6337,0
+-76.497833,Rte 96B @ Comfort,42.394547,6330,0
+-76.482224,Triphammer @ Oak Hill,42.458389,1360,0
+-76.482086,Triphammer @ Oak Hill,42.458408,1361,0
+-76.491463,Rte 96B @ Muzzy,42.380978,6338,0
+-76.428764,Turkey Hill @ Ellis Hollow Creek,42.442387,5311,0
+-76.483597,Triphammer @ Iroquois Pl,42.463116,1368,0

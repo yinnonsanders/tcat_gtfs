@@ -1,0 +1,33 @@
+route_type,route_id,route_short_name,route_long_name
+3,51,51,Commons - Cornell - EHP - Eastern Height
+3,65,65,Danby
+3,67,67,Newfield - Commons
+3,82,82,Cornell Campus Service - East Hill Offic
+3,83,83,Cornell Morning West Campus Service
+3,81,81,Cornell Daytime Campus Service
+3,20,20,Enfield - Commons
+3,21,21,Trumansburg - Commons
+3,43,43,TC3 - Varna - Cornell - Commons
+3,40,40,Groton - Freeville- Cornell - Commons
+3,41,41,Demand and Response (DAR) Service
+3,77,77,Warren@ Farrel - Mall
+3,75,75,Dryden - Cornell - Shops at Ithaca Mall
+3,74,74,Groton - Freeville- Shops at Ithaca Mall
+3,72,72,Airport - Cornell - Commons (weekend)
+3,70,70,Commons - Cornell - Shops at Ithaca Mall
+3,90,90,Ithaca Commons - Cornell University
+3,93,93,Cornell Campus Service-Nights
+3,92,92,Cornell Campus Service-Nights
+3,11,11,Ithaca College - Commons
+3,10,10,Cornell - Commons Shuttle
+3,13,13,Fall Creek - Mall - Commons
+3,15,15,Southside Shopper
+3,14,14,West Hill - Hospital - Commons
+3,17,17,TCAT - Fall Creek - Commons
+3,32,32,Airport - Cornell - Commons
+3,31,31,Cornell - Convenient Care - Commons
+3,30,30,Commons - Cornell - Shops at Ithaca Mall
+3,37,37,North Lansing - Cornell - Commons
+3,36,36,South Lansing - Cornell - Commons
+3,53,53,Ellis Hollow - Brooktondale
+3,52,52,Caroline - Brooktondale - Commons

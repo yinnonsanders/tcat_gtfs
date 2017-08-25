@@ -1,0 +1,2 @@
+agency_phone,agency_url,agency_name,agency_timezone,agency_lang,email
+(607) 277-RIDE,https://tcatbus.com/,Tompkins Consolidated Area Transit,America/New_York,en,tcat@tcatmail.com
