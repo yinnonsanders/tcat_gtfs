@@ -109,7 +109,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type
 -76.481438,Triphammer @ Spruce,42.472546,3516,0
 -76.481323,Triphammer @ Texas,42.472656,3515,0
 -76.309319,Freeville Rd @ Dryden Central School,42.498505,4776,0
--76.309319,Freeville Rd @ Poets Landing,42.498505,4775,0
+-76.309387,Freeville Rd @ Poets Landing,42.498398,4775,0
 -76.361893,Boiceville Rd @ Boiceville Cottages,42.388237,5796,0
 -76.361778,Boiceville Rd @ Boiceville Cottages,42.388184,5795,0
 -76.36013,Boiceville @ Valley,42.38596,5794,0
@@ -185,7 +185,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type
 -76.500519,College Circle Apts,42.411572,373,0
 -76.500534,College Circle North Entrance,42.413074,372,0
 -76.499191,College Circle @ Unnamed Road,42.412563,376,0
--76.519127,Chestnut @ Elm (LACS),42.438648,709,0
+-76.519127,Chestnut @ Elm - LACS,42.438648,709,0
 -76.517815,Chestnut @ Sunrise,42.443447,704,0
 -76.518036,Chestnut Hill Apts,42.441708,705,0
 -76.518082,Chestnut Hill Apts,42.441711,706,0
@@ -204,7 +204,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type
 -76.297714,South @ George,42.489346,4724,0
 -76.297333,South @ Ferguson,42.483341,4727,0
 -76.428185,Turkey Hill @ Ellis Hollow,42.430874,5316,0
--76.297714,South @ George,42.489346,4723,0
+-76.2976,South @ George,42.489349,4723,0
 -76.499168,E Shore Dr @ James L. Gibbs,42.464016,1138,0
 -76.467796,Warren @ Bomax,42.490177,3748,0
 -76.467758,Warren @ Tompkins County Jail,42.493011,3749,0
@@ -351,12 +351,12 @@ stop_lon,stop_name,stop_lat,stop_id,location_type
 -76.431145,Hanshaw Village,42.483047,3949,0
 -76.491737,Hudson @ South Hill School,42.433723,318,0
 -76.37532,Rte 79 @ Lounsberry,42.394356,5746,0
--76.492256,Hudson @ Columbia,42.435791,313,0
+-76.492378,Hudson @ Columbia,42.435936,313,0
 -76.367271,Ellis Hollow @ Rte 79,42.393826,5747,0
 -76.491631,Hudson @ South Hill School,42.433704,317,0
 -76.493378,416 Hillview Pl,42.43494,316,0
 -76.493355,417 Hillview Pl,42.434891,315,0
--76.492378,Hudson @ Columbia,42.435936,314,0
+-76.492256,Hudson @ Columbia,42.435791,314,0
 -76.478256,RPCC @ Jameson,42.456264,1339,0
 -76.485535,Triphammer @ Cayuga Mall,42.483673,3579,0
 -76.503906,Longview,42.415726,365,0
@@ -472,7 +472,6 @@ stop_lon,stop_name,stop_lat,stop_id,location_type
 -76.49398,Rte 34 @ Buck,42.556862,3322,0
 -76.492897,Rt 34 @ E Lansing,42.567478,3325,0
 -76.493004,Rt 34e @ Searles,42.567646,3326,0
--76.597198,Newfield-Central School/Garden Apts.,42.359272,6874,0
 -76.49192,Garden Apts,42.425182,338,0
 -76.611549,Rte 79 @ Applegate,42.451523,2323,0
 -76.462776,East Hill Plaza,42.437618,1774,0
@@ -594,6 +593,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type
 -76.429626,Rt 79 @ German Cross,42.405418,5730,0
 -76.423561,Rt 79 @ Brooktondale,42.402554,5733,0
 -76.40905,Rte 79 @ Bessemer Hill,42.396091,5738,0
+-76.597198,Newfield-Central School/Garden Apts.,42.359272,6784,0
 -76.465141,Brown @ Thornwood,42.487301,3782,0
 -76.462181,Brown @ Culligan,42.487488,3783,0
 -76.46492,Thornwood @ Brown,42.487255,3781,0

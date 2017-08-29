@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Yinnon Sanders,https://github.com/yinnonsanders,en,20170820,20180120,0.0.1

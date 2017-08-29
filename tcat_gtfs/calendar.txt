@@ -1,3 +1,3 @@
 service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
-Weekend,20170820,20180120,0,0,0,0,0,1,1
+Weekends,20170820,20180120,0,0,0,0,0,1,1
 Weekdays,20170820,20180120,1,1,1,1,1,0,0

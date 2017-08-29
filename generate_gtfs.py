@@ -50,7 +50,7 @@ def add_service_periods(schedule):
     weekdays.SetWeekdayService()
     schedule.AddServicePeriodObject(weekdays)
 
-    weekends = ServicePeriod(id='Weekend')
+    weekends = ServicePeriod(id='Weekends')
     weekends.SetStartDate('20170820')
     weekends.SetEndDate('20180120')
     weekends.SetWeekendService()
