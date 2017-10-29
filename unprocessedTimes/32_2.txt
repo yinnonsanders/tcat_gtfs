@@ -1,0 +1,4 @@
+Green @ Commons,College @ Dryden,Rockefeller Hall,Triphammer @ Hanshaw,Uptown Village Apts.,Airport Arrive,Airport Depart,Northwood Apts.,Uptown Village Apts.,Triphammer @ Hanshaw,Goldwin Smith Hall,Schwartz CPA,Seneca @ Commons,Green @ Commons
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+22:15:00,22:20:00,22:25:00,22:32:00,22:36:00,22:43:00,22:46:00,22:49:00,22:53:00,22:58:00,23:05:00,23:09:00,23:15:00,23:19:00
+23:25:00,23:30:00,23:35:00,23:42:00,23:46:00,ERROR,ERROR,23:50:00,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR

@@ -1,0 +1,9 @@
+Stewart @ University,Baker Flagpole,Uris Hall,Dairy Bar,Arrive Hasbrouck Apartments,Depart Hasbrouck Apartments,Goldwin Smith Hall,Stewart @ University,Baker Flagpole Arrive
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+8:14,8:17,8:22,8:25,8:30,8:32,8:37,8:43,8:45
+8:29,8:32,8:37,8:40,8:45,8:47,8:52,8:58,9:00
+8:44,8:47,8:52,8:55,9:00,9:02,9:07,9:13,9:15
+8:59,9:02,9:07,9:10,9:15,9:17,9:22,9:28,9:30
+9:14,9:17,9:22,9:25,9:30,9:32,9:37,9:43,9:45
+9:29,9:32,9:37,9:40,9:45,9:47,9:52,9:58,10:00
+9:44,9:47,9:52,9:55,ERROR,ERROR,ERROR,ERROR,ERROR

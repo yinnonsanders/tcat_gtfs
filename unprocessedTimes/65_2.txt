@@ -1,0 +1,5 @@
+Green @ Commons,Aurora St. @ Commons,Alumni Circle @ IC,Danby Fire Station,Hillside View Trailer Park,Hillside View Trailer Park,Danby Fire Station,Route 96B @ E. King,Seneca @ Commons
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+8:58,9:00,9:03,9:10,9:15,9:20,9:25,9:31,9:37
+24:58:00,13:00:00,13:03:00,13:10:00,13:15:00,13:20:00,13:25:00,13:31:00,13:37:00
+17:28:00,17:30:00,17:33:00,17:40:00,17:45:00,17:50:00,17:55:00,18:01:00,18:07:00

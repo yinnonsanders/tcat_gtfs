@@ -1,0 +1,5 @@
+Green @ Commons,Uris Hall,Boyce Thompson Institute,Pine Tree @ East Hill Plaza,Route 79 @ Brooktondale Rd.,Brooktondale Community Ctr.,Caroline Town Hall,Caroline Turnaround,Caroline Turnaround,Caroline Town Hall,Across the Brooktondale Community Ctr.,Route 79 @ Brooktondale Rd.,Pine Tree @ East Hill Plaza,Vet School,Uris Hall Across the Street,Seneca @ Commons,Green @ Commons
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+7:55,ERROR,ERROR,ERROR,8:04,ERROR,8:09,8:14,8:15,8:20,8:26,8:30,8:37,8:41,8:44,8:49,8:53
+11:35,11:44,11:47,11:50,11:57,24:01:00,24:07:00,24:12:00,24:15:00,24:20:00,24:26:00,24:30:00,24:37:00,24:41:00,24:44:00,24:49:00,24:53:00
+18:15:00,18:24:00,18:27:00,18:30:00,18:37:00,18:41:00,18:47:00,18:52:00,18:55:00,19:00:00,19:06:00,19:10:00,19:17:00,19:21:00,19:24:00,19:29:00,ERROR

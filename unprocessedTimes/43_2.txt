@@ -1,0 +1,4 @@
+Green @ Commons,Uris Hall,Dairy Bar,Dryden Village @ Main St.,TC3,TC3,Dryden Village Main @ Library St.,Dairy Bar Across Street,Uris Hall Across Street,Seneca @ Commons,Green @ Commons
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+Express: Timepoints Onl,6:55,ERROR,ERROR,7:14,7:18,7:22,7:26,7:43,7:46,7:53,7:57
+Express: Timepoints Onl,16:30:00,16:39:00,16:42:00,16:58:00,17:02:00,17:05:00,17:09:00,ERROR,ERROR,17:29:00,17:33:00

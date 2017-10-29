@@ -1,0 +1,6 @@
+Green @ Commons,Uris Hall,Dairy Bar,Varna,Etna Mills Apartments,Freeville Village,Groton Express Mart,Groton Express Mart,Groton Main @ Railroad,Freeville Park & Ride,Etna Mills Apts.,Varna,Dairy Bar Across Street,Uris Hall Across Street,Seneca @ Commons,Green @ Commons
+6:17,ERROR,ERROR,6:25,6:33,6:36,6:46,6:50,6:54,7:04,7:08,7:16,7:21,7:24,7:32,7:36
+6:36,ERROR,ERROR,6:44,6:52,6:55,7:05,7:10,7:14,7:24,7:28,7:36,7:41,7:44,7:52,7:56
+8:16,ERROR,ERROR,8:24,8:32,8:35,8:45,8:50,8:54,9:04,9:08,9:16,9:21,9:24,9:32,9:36
+16:30:00,16:39:00,16:42:00,16:48:00,16:56:00,16:59:00,17:09:00,17:14:00,17:18:00,17:28:00,17:32:00,17:40:00,17:45:00,17:48:00,17:56:00,ERROR
+17:15:00,17:24:00,17:27:00,17:33:00,17:41:00,17:44:00,17:54:00,17:57:00,18:01:00,18:11:00,18:15:00,18:23:00,18:28:00,18:31:00,18:39:00,ERROR
