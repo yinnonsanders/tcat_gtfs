@@ -1,0 +1,5 @@
+Green @ Commons,Seneca @ Commons,Seneca @ Fulton,Route 79 @ EcoVillage,Enfield Center Park & Ride,Enfield Highway Arrive,Enfield Highway Depart,Enfield Center Park & Ride,Route 79 @ EcoVillage,Green St. @ Meadow St.,Green @ Commons
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+9:00,9:02,9:05,9:11,9:19,9:24,9:30,9:32,9:43,9:49,9:54
+13:00:00,13:02:00,13:05:00,13:11:00,13:19:00,13:24:00,13:30:00,13:32:00,13:43:00,13:49:00,13:54:00
+18:35:00,18:37:00,18:40:00,18:46:00,18:54:00,18:59:00,19:00:00,19:02:00,19:13:00,19:19:00,19:24:00

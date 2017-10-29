@@ -1,0 +1,5 @@
+Green @ Commons,Shops @ Ithaca Mall,Hanshaw @ Warren,Winston Court,Pickney @ Lower Creek,Etna Mills Apartments,Freeville Village Park & Ride,Arrive Groton Express Mart,Depart Groton Express Mart,Groton Main @ Railroad,Freeville Village Park & Ride,Etna Mills Apartments,Pickney @ Lower Creek,Winston Court,Hanshaw @ Warren,Shops @ Ithaca Mall,Green @ Commons
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+7:15,7:30,ERROR,ERROR,ERROR,ERROR,7:45,7:54,7:57,8:01,8:10,8:14,8:17,8:27,8:30,8:39,8:54
+ERROR,11:30,11:35,11:38,11:48,11:51,11:55,24:04:00,24:07:00,24:11:00,24:20:00,24:24:00,24:27:00,24:37:00,24:40:00,24:49:00,ERROR
+ERROR,15:35:00,15:40:00,15:43:00,15:53:00,15:56:00,16:00:00,16:09:00,16:12:00,16:16:00,16:25:00,16:29:00,16:32:00,16:42:00,16:45:00,16:54:00,ERROR

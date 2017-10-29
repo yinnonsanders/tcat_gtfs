@@ -1,0 +1,6 @@
+Shops @ Ithaca Mall,Warren @ Farrell,Warren @ Farrell,Shops @ Ithaca Mall
+ERROR,ERROR,ERROR,ERROR
+9:55,10:10,10:10,10:25
+24:35:00,24:50:00,24:50:00,13:05:00
+16:15:00,16:30:00,16:30:00,16:45:00
+19:00:00,19:15:00,19:15:00,19:30:00

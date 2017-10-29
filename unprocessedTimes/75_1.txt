@@ -1,0 +1,5 @@
+Shops @ Ithaca Mall,Uris Hall,Varna,Dryden Village @ Main St.,Keith @ Lake,TC3 Dorms,TC3 Dorms,Dryden Village Main @ Library St.,Varna,Uris Hall Across Street,Shops @ Ithaca Mall
+ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
+8:40,8:52,8:59,9:10,9:14,9:25,9:35,9:42,9:53,10:00,10:14
+14:35:00,14:47:00,14:54:00,15:05:00,15:09:00,15:20:00,15:30:00,15:37:00,15:48:00,15:55:00,16:09:00
+20:55:00,21:07:00,21:14:00,21:25:00,21:29:00,21:40:00,21:40:00,21:47:00,21:58:00,22:05:00,22:19:00
