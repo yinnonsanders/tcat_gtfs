@@ -33,25 +33,14 @@ def add_routes(schedule):
     routes = []
     routes_response = requests.get('https://realtimetcatbus.availtec.com/InfoPoint/rest/Routes/GetVisibleRoutes')
     routes_json = routes_response.json()
-    # TODO: add color and url by using field_dict
-
     for route in routes_json:
-        # routes.append(Route(short_name=str(route['RouteId']),
-        #                     long_name=(route['LongName']),
-        #                     route_id=str(route['RouteId']),
-        #                     route_type=3)) # it's a bus
-
         routes.append(Route(field_dict={'route_short_name' : str(route['RouteId']),
                                       'route_long_name' : (route['LongName']),
                                       'route_id' : str(route['RouteId']),
                                       'route_type' : 3,  # it's a bus
+                                      'route_url' : 'https://www.tcatbus.com/route{}/'.format(str(route['RouteId'])),
                                       'route_color' : str(route['Color']),
                                       'route_text_color' : str(route['TextColor'])}))
-
-        # routes.append(Route(field_dict={'short_name' : str(route['RouteId']),
-        #                               'long_name' : (route['LongName']),
-        #                               'route_id' : str(route['RouteId']),
-        #                               'route_type' : 3}))  # it's a bus
         schedule.AddRouteObject(routes[-1])
     return routes
 
