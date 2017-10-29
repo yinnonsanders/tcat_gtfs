@@ -58,19 +58,18 @@ def add_service_periods(schedule,startDate,endDate):
     weekends.SetWeekendService()
     schedule.AddServicePeriodObject(weekends)
 
-    # TODO: need to add Friday/Saturday only fields (eg, routes 92,93)
-    # onlyFriday = ServicePeriod(id='onlyFri')
-    # onlyFriday.SetStartDate(startDate)
-    # onlyFriday.SetEndDate(endDate)
-    # onlyFriday.SetDayOfWeekHasService(4, True)
-    # onlyFriday.AddServicePeriodObject(onlyFriday)
-    # print(onlyFriday)
+    # needed for eg routes 92, 93
+    onlyFriday = ServicePeriod(id='OnlyFris')
+    onlyFriday.SetStartDate(startDate)
+    onlyFriday.SetEndDate(endDate)
+    onlyFriday.SetDayOfWeekHasService(4, True)
+    schedule.AddServicePeriodObject(onlyFriday)
 
-    # onlySaturday = ServicePeriod(id='OnlySat')
-    # onlySaturday.SetStartDate(startDate)
-    # onlySaturday.SetEndDate(endDate)
-    # onlyFriday.SetDayOfWeekHasService(5, True)
-    # onlySaturday.AddServicePeriodObject(onlySat)
+    onlySaturday = ServicePeriod(id='OnlySats')
+    onlySaturday.SetStartDate(startDate)
+    onlySaturday.SetEndDate(endDate)
+    onlySaturday.SetDayOfWeekHasService(5, True)
+    schedule.AddServicePeriodObject(onlySaturday)
 
 def add_trips(schedule):
     trips = []
